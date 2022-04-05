@@ -1,0 +1,15 @@
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/bin/Debug/net6.0/assignment7sol
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/bin/Debug/net6.0/assignment7sol.deps.json
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/bin/Debug/net6.0/assignment7sol.runtimeconfig.json
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/bin/Debug/net6.0/assignment7sol.dll
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/bin/Debug/net6.0/assignment7sol.pdb
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/assignment7sol.csproj.AssemblyReference.cache
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/assignment7sol.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/assignment7sol.AssemblyInfoInputs.cache
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/assignment7sol.AssemblyInfo.cs
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/assignment7sol.csproj.CoreCompileInputs.cache
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/assignment7sol.dll
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/refint/assignment7sol.dll
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/assignment7sol.pdb
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/assignment7sol.genruntimeconfig.cache
+/mnt/c/Users/jdgal/Desktop/Assignment7/assignment7sol/obj/Debug/net6.0/ref/assignment7sol.dll
